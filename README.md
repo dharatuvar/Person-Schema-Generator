@@ -1,5 +1,5 @@
 # Person Schema Generator
-Meetanshi’s  Person Schema Generator is a tool that helps you create person schema markup for your website without needing any coding knowledge. With a person schema generator, you simply input the necessary information about a person, such as their name, job title, email, and phone number, and the tool will generate the corresponding schema markup. 
+Meetanshi’s  ***[Person Schema Generator](https://meetanshi.com/schema-generator/person)*** is a tool that helps you create person schema markup for your website without needing any coding knowledge. With a person schema generator, you simply input the necessary information about a person, such as their name, job title, email, and phone number, and the tool will generate the corresponding schema markup. 
 
 
 This can then be added to your website's HTML code to enhance your search engine visibility and improve the accuracy of search engine results.
