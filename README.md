@@ -4,7 +4,7 @@ Meetanshi’s  ***[Person Schema Generator](https://meetanshi.com/schema-generat
 
 This can then be added to your website's HTML code to enhance your search engine visibility and improve the accuracy of search engine results.
 
-## What are the Benefits of Using a Person Schema Generator?
+## Benefit’s of Using Meetanshi’s Person Schema Generator:-
 
 *  By adding person schema markup to your website, search engines like Google can better understand the content on your site and display it more accurately in search results. This can help increase your website's visibility and attract more organic traffic.
 
